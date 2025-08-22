@@ -1,4 +1,4 @@
-# Môj Gammu SMS Add-on
+# Simple Gammu SMS Add-on
 
 Tento add-on spúšťa Gammu s pevným ID modemu, aby sa porty nepoprehadzovali.
 
