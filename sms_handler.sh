@@ -1,3 +1,6 @@
+#!/usr/bin/env bash
+
+# Prečítaj HTTP POST JSON
 read body
 number=$(echo "$body" | sed -n 's/.*"number"[[:space:]]*:[[:space:]]*"\([^"]*\)".*/\1/p')
 message=$(echo "$body" | sed -n 's/.*"message"[[:space:]]*:[[:space:]]*"\([^"]*\)".*/\1/p')
