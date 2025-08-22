@@ -1,4 +1,4 @@
-name: "HA Gammu SMS"
+name: HA Gammu SMS
 version: "0.7"
 slug: ha_gammu
 description: Gammu SMS fixed ID modem
