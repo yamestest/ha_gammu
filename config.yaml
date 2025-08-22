@@ -1,5 +1,5 @@
 name: HA Gammu SMS
-version: "0.72"
+version: "0.81"
 slug: ha_gammu
 description: Gammu SMS fixed ID modem
 url: https://github.com/yamestest/ha_gammu
