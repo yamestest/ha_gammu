@@ -10,7 +10,10 @@ arch:
   - aarch64
 startup: services
 boot: auto
+usb: true
 init: false
+homeassistant_api: true
+host_network: true
 options:
   device: /dev/serial/by-id/usb-HUAWEI_MOBILE_HUAWEI_MOBILE-if00-port0
 schema:
@@ -19,3 +22,5 @@ privileged:
   - SYS_RAWIO
 devices:
   - /dev/serial/by-id/usb-HUAWEI_MOBILE_HUAWEI_MOBILE-if00-port0
+map:
+  - addon_config:rw
