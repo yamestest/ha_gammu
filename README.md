@@ -1,6 +1,6 @@
 # Simple Gammu SMS Add-on
 
-Tento add-on spúšťa Gammu s pevným ID modemu, aby sa porty nepoprehadzovali.
+This addon sending for gammu sms text
 
-## Použitie
-4. Spusti ho.
+## Usage
+1. Configuration: device
