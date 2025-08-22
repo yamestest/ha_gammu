@@ -1,8 +1,8 @@
 name: "HA Gammu SMS"
-version: "1.0.0"
-slug: "ha_gammu"
-description: "Gammu SMS fixed ID modem"
-url: "https://github.com/yamestest/ha_gammu"
+version: "0.7"
+slug: ha_gammu
+description: Gammu SMS fixed ID modem
+url: https://github.com/yamestest/ha_gammu
 arch:
   - amd64
   - armv7
